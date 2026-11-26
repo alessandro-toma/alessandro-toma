@@ -16,7 +16,6 @@ Cross-Media & Visual Designer and Front-End Developer based in Veneto, Italy.
 ### Current Focus & Projects
 - Building and refining my personal **E-Portfolio** (HTML5, CSS3, JS, Cloudflare Pages & Functions)
 - Developing independent software utilities, web interfaces, and 3D/visual prototypes (including projects such as *G.E.N.E. Kombucha* and *SideRain*)
-- Applying a *Learn to Do; Do to Learn* and cross-disciplinary approach connecting design, code, and systems thinking
 
 ---
 
